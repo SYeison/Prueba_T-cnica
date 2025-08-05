@@ -8,9 +8,9 @@ Este proyecto implementa una API para la gestión de un sistema de votación, de
 
 ### ✅ Requisitos
 
-- Visual Studio 2019 o superior
-- .NET Framework 4.7.2 
-- SQL Server Express o superior
+- Visual Studio 2022
+- .NET Framework 4.8
+- SQL Server 
 - Postman
 ## Documentación POSTMAN
 [archivo](https://github.com/SYeison/Prueba_T-cnica/blob/main/Imagenes/Sistema%20de%20votacion.postman_collection.json)
